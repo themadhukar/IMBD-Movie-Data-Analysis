@@ -1,2 +1,2 @@
-# IMBD-Movie-Data-Analysis
+# IMDB-Movie-Data-Analysis
 This Is a IMDB movie data analysis
